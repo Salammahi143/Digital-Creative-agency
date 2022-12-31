@@ -1,0 +1,387 @@
+
+@media (min-width: 320px) and (max-width: 767px){
+    .banner-text {
+        margin-top: 60px;
+        margin-left: 10px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+        margin-top: 16px;
+    }
+    .banner-text p {
+        font-size: 17px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .banner-image {
+        margin-top: 40px;
+        padding-left: 90px;
+    }
+    .service-area {
+        margin-top: 60px;
+    }
+    .services p {
+       margin-left: 90px;
+    }
+    .services-i p{
+        margin-left: 90px;
+        margin-bottom: -16px;
+
+    }
+    .services-ii p{
+        margin-left: 90px;
+        margin-bottom: 20px;
+    }
+    .about-img {
+        margin-bottom: 50px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .section-title p {
+        margin-bottom: 30px;
+    }
+    .section-portofolio p {
+        margin-bottom: 15px;
+        margin-top: 24px;
+    }
+    .section-portofolio h2 {
+        font-size: 33px;
+        margin-bottom: 15px;
+    }
+    .portofolio-img {
+        margin-top: 20px;
+    }
+    .portofolio-icon a {
+        bottom: 20px;
+        right: 25px;
+    }
+   .section-area h6 {
+        margin-bottom: 5px;
+        margin-top: -156px;
+    }
+    .section-area h2 {
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+    .section-area {
+        margin-top: 180px;
+    }
+    .blog-text img {
+        margin-bottom: 30px;
+    }
+    .blog-area {
+        margin-top: 40px;
+    }
+    .contact-text h3 {
+        font-size: 16px;
+        margin-top: 25px;
+        margin-bottom: 12px;
+    }
+    .contact-text ul li a i {
+        font-size: 20px;
+        
+    }
+    .news h3 {
+        margin-top: 40px;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    a.touch-btn {
+        margin-left: 68px;
+        margin-top: 56px;
+    }
+    .news-area {
+        margin-top: 50px;
+        height: 245px;
+    }
+    /*.shape Img*/
+    .shape6 {
+        display: none;
+    }
+    .shape5 {
+        display: none;
+    }
+    .shape4 {
+        display: none;
+    }
+    .shape3 {
+        display: none;
+    }
+    .shape2 {
+        display: none;
+    }
+    .shape1 {
+        display: none;
+    }
+    .shap1 {
+        display: none;
+    }
+    .shap2.rotateme {
+        display: none;
+    }
+    .shp2.rotateme {
+        display: none;
+    }
+    .shap3 {
+        display: none;
+    }
+    .shap4 {
+        display: none;
+    }
+    .shap6 {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        transition: .5s;
+        background: #000;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner-text {
+        margin-top: 60px;
+        margin-left: 10px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+        margin-top: 16px;
+    }
+    .banner-text p {
+        font-size: 17px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .banner-image {
+        margin-top: 40px;
+        padding-left: 90px;
+    }
+    .service-area {
+        margin-top: 60px;
+    }
+    .services p {
+       margin-left: 90px;
+    }
+    .services-i p {
+        margin-left: 90px;
+        margin-bottom: -8px;
+    }
+    .services-ii p{
+        margin-left: 90px;
+        margin-bottom: 20px;
+    }
+    .about-img {
+        margin-bottom: 50px;
+    }
+    .section-title h2 {
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .section-title p {
+        margin-bottom: 30px;
+        font-size: 17px;
+    }
+    .section-portofolio p {
+        margin-bottom: 15px;
+        margin-top: 24px;
+    }
+    .section-portofolio h2 {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .portofolio-img {
+        margin-top: 20px;
+    }
+    .portofolio-icon a {
+        bottom: 27px;
+        right: 355px;
+    }
+   .section-area h6 {
+        margin-bottom: 5px;
+        margin-top: -156px;
+    }
+    .section-area h2 {
+        font-size: 23px;
+        margin-bottom: 25px;
+    }
+    .section-area {
+        margin-top: 180px;
+    }
+    .blog-text img {
+        margin-bottom: 9px;
+    }
+    .blog-area {
+        margin-top: 40px;
+    }
+    .contact-text h3 {
+        font-size: 16px;
+        margin-top: 25px;
+        margin-bottom: 12px;
+    }
+    .contact-text ul li a i {
+        font-size: 20px;
+        
+    }
+    .section-title span {
+        font-size: 16px;
+    }
+    .news h3 {
+        margin-top: 110px;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    a.touch-btn {
+        margin-left: 80px;
+        margin-top: 102px;
+    }
+    .news-area {
+        margin-top: 50px;
+        height: 245px;
+    }
+    .footer-img {
+        margin-top: 45px;
+    }
+    .contact-text h4 {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    .contact-text h3 {
+        font-size: 19px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .shape6 {
+        display: none;
+    }
+    .shape5 {
+        display: none;
+    }
+    .shape4 {
+        display: none;
+    }
+    .shape3 {
+        display: none;
+    }
+    .shape2 {
+        display: none;
+    }
+    .shape1 {
+        display: none;
+    }
+    .shap1 {
+        display: none;
+    }
+    .shap2.rotateme {
+        display: none;
+    }
+    .shp2.rotateme {
+        display: none;
+    }
+    .shap3 {
+        display: none;
+    }
+    .shap4 {
+        display: none;
+    }
+    .shap6 {
+        display: none;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        background: #000;
+    }
+ }
+ @media (min-width: 992px) and (max-width: 1300px) {
+  
+    .news h3 {
+        font-size: 38px;
+        margin-left: 90px;
+    }
+    .services-i i {
+        margin-left: 9px;
+    }
+    .services-ii i {
+        margin-left: 9px;
+    }
+    .services i {
+        margin-left: 9px;
+    }
+    .section-title p {
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    .section-title h2 {
+        margin-bottom: 50px;
+        
+    }
+    .portofolio-icon a {
+        right: 25px;
+    }
+    .section-area h6 {
+        font-size: 15px;
+        margin-bottom: 14px;
+    }
+    .section-area h2 {
+        font-size: 43px;
+        margin-bottom: 45px;
+    }
+    .blog-area h2 {
+        font-size: 45px;
+        margin-bottom: 45px;
+    }
+    .blog-area {
+        margin-top: 30px;
+    }
+    .news-area {
+        margin-top: 45px;
+    }
+    .contact-text h3 {
+        margin-top: 60px;
+    }
+    .footer-img {
+        margin-top: 60px;
+    }
+    .banner-text h1 {
+        font-size: 57px;
+        max-width: 440px;
+    }
+    .shape6 {
+        display: none;
+    }
+    .shape5 {
+        display: none;
+    }
+    .shape4 {
+        display: none;
+    }
+    .shape3 {
+        display: none;
+    }
+    .shape2 {
+        display: none;
+    }
+    .shape1 {
+        display: none;
+    }
+    .shap1 {
+        display: none;
+    }
+    .shap2.rotateme {
+        display: none;
+    }
+    .shp2.rotateme {
+        display: none;
+    }
+    .shap3 {
+        display: none;
+    }
+    .shap4 {
+        display: none;
+    }
+    .shap6 {
+        display: none;
+    }
+    
+    
+}
